@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shape2KML", "Shape2KML\Shape2KML.csproj", "{1B4C29CD-3144-4E1C-935A-9299A42A45BE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupShape2KML", "SetupShape2KML\SetupShape2KML.vdproj", "{D7AE6ED0-537C-4610-BC4E-BA283E375E77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B4C29CD-3144-4E1C-935A-9299A42A45BE}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4C29CD-3144-4E1C-935A-9299A42A45BE}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{1B4C29CD-3144-4E1C-935A-9299A42A45BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4C29CD-3144-4E1C-935A-9299A42A45BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7AE6ED0-537C-4610-BC4E-BA283E375E77}.Debug|Any CPU.ActiveCfg = Release
+		{D7AE6ED0-537C-4610-BC4E-BA283E375E77}.Debug|Any CPU.Build.0 = Release
+		{D7AE6ED0-537C-4610-BC4E-BA283E375E77}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

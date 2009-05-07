@@ -1,0 +1,12 @@
+bin\Release\Shape2KML.dll
+bin\Release\Shape2KML.pdb
+C:\Documents and Settings\Matei\My Documents\Visual Studio 2005\Projects\Shape2KML\Shape2KML\bin\Release\Shape2KML.tlb
+bin\Release\Google.KML.dll
+bin\Release\ICSharpCode.SharpZipLib.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Shape2KML.ShapeToKML.bmp
+obj\Release\Shape2KML.Properties.Resources.resources
+obj\Release\Shape2KML.ShapeToKMLForm.resources
+obj\Release\Shape2KML.csproj.GenerateResource.Cache
+obj\Release\Shape2KML.dll
+obj\Release\Shape2KML.pdb
