@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Shape2KML">
+</Property><Property Name="Solution File" Value="C:\Users\Abdulmajed Dakkak\Downloads\AS15698\Shape2KML\Shape2KML.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Abdulmajed Dakkak\Downloads\AS15698\Shape2KML\Shape2KML.suo">
+</Property><Property Name="Date" Value="Wednesday, May 06, 2009">
+</Property><Property Name="Time" Value="20:42 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Shape2KML.sln" Description="File successfully backed up as C:\Users\Abdulmajed Dakkak\Downloads\AS15698\Shape2KML\Backup\Shape2KML.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Shape2KML.suo" Description="File successfully backed up as C:\Users\Abdulmajed Dakkak\Downloads\AS15698\Shape2KML\Backup\Shape2KML.suo">
+</Event><Event ErrorLevel="0" Project="Shape2KML" Source="Shape2KML\Shape2KML.csproj" Description="Project file successfully backed up as C:\Users\Abdulmajed Dakkak\Downloads\AS15698\Shape2KML\Backup\Shape2KML\Shape2KML.csproj">
+</Event><Event ErrorLevel="0" Project="Shape2KML" Source="Shape2KML\Shape2KML.csproj.user" Description="Project user file successfully backed up as C:\Users\Abdulmajed Dakkak\Downloads\AS15698\Shape2KML\Backup\Shape2KML\Shape2KML.csproj.user">
+</Event><Event ErrorLevel="0" Project="Shape2KML" Source="Shape2KML\Shape2KMLInstaller.cs" Description="File successfully backed up as C:\Users\Abdulmajed Dakkak\Downloads\AS15698\Shape2KML\Backup\Shape2KML\Shape2KMLInstaller.cs">
+</Event><Event ErrorLevel="0" Project="Shape2KML" Source="Shape2KML\Shape2KMLInstaller.Designer.cs" Description="File successfully backed up as C:\Users\Abdulmajed Dakkak\Downloads\AS15698\Shape2KML\Backup\Shape2KML\Shape2KMLInstaller.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Shape2KML" Source="Shape2KML\KMLGenerator.cs" Description="File successfully backed up as C:\Users\Abdulmajed Dakkak\Downloads\AS15698\Shape2KML\Backup\Shape2KML\KMLGenerator.cs">
+</Event><Event ErrorLevel="0" Project="Shape2KML" Source="Shape2KML\KMLStyle.cs" Description="File successfully backed up as C:\Users\Abdulmajed Dakkak\Downloads\AS15698\Shape2KML\Backup\Shape2KML\KMLStyle.cs">
+</Event><Event ErrorLevel="0" Project="Shape2KML" Source="Shape2KML\LayerProperties.cs" Description="File successfully backed up as C:\Users\Abdulmajed Dakkak\Downloads\AS15698\Shape2KML\Backup\Shape2KML\LayerProperties.cs">
+</Event><Event ErrorLevel="0" Project="Shape2KML" Source="Shape2KML\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Abdulmajed Dakkak\Downloads\AS15698\Shape2KML\Backup\Shape2KML\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Shape2KML" Source="Shape2KML\ShapeToKML.cs" Description="File successfully backed up as C:\Users\Abdulmajed Dakkak\Downloads\AS15698\Shape2KML\Backup\Shape2KML\ShapeToKML.cs">
+</Event><Event ErrorLevel="0" Project="Shape2KML" Source="Shape2KML\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Abdulmajed Dakkak\Downloads\AS15698\Shape2KML\Backup\Shape2KML\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Shape2KML" Source="Shape2KML\ShapeToKMLForm.cs" Description="File successfully backed up as C:\Users\Abdulmajed Dakkak\Downloads\AS15698\Shape2KML\Backup\Shape2KML\ShapeToKMLForm.cs">
+</Event><Event ErrorLevel="0" Project="Shape2KML" Source="Shape2KML\ShapeToKMLForm.Designer.cs" Description="File successfully backed up as C:\Users\Abdulmajed Dakkak\Downloads\AS15698\Shape2KML\Backup\Shape2KML\ShapeToKMLForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Shape2KML" Source="Shape2KML\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Abdulmajed Dakkak\Downloads\AS15698\Shape2KML\Backup\Shape2KML\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Shape2KML" Source="Shape2KML\ShapeToKML.bmp" Description="File successfully backed up as C:\Users\Abdulmajed Dakkak\Downloads\AS15698\Shape2KML\Backup\Shape2KML\ShapeToKML.bmp">
+</Event><Event ErrorLevel="0" Project="Shape2KML" Source="Shape2KML\ShapeToKMLForm.resx" Description="File successfully backed up as C:\Users\Abdulmajed Dakkak\Downloads\AS15698\Shape2KML\Backup\Shape2KML\ShapeToKMLForm.resx">
+</Event><Event ErrorLevel="0" Project="Shape2KML" Source="Shape2KML\Shape2KML.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Shape2KML" Source="Shape2KML\Shape2KML.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SetupShape2KML.vdproj" Source="SetupShape2KML\SetupShape2KML.vdproj" Description="Project file successfully backed up as C:\Users\Abdulmajed Dakkak\Downloads\AS15698\Shape2KML\Backup\SetupShape2KML\SetupShape2KML.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="Shape2KML.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Shape2KML.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Shape2KML" Source="Shape2KML\Shape2KML.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
